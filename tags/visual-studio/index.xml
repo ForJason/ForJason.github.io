@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visual studio on Jason&#39;s Blog</title>
+    <link>https://forjason.github.io/tags/visual-studio/</link>
+    <description>Recent content in visual studio on Jason&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Aug 2018 18:19:43 +0800</lastBuildDate><atom:link href="https://forjason.github.io/tags/visual-studio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VS2008对ANSI C的支持</title>
+      <link>https://forjason.github.io/2018/08/vs2008%E5%AF%B9ansi-c%E7%9A%84%E6%94%AF%E6%8C%81/</link>
+      <pubDate>Mon, 13 Aug 2018 18:19:43 +0800</pubDate>
+      
+      <guid>https://forjason.github.io/2018/08/vs2008%E5%AF%B9ansi-c%E7%9A%84%E6%94%AF%E6%8C%81/</guid>
+      <description>&lt;p&gt;微软VS2008不支持C99标准。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

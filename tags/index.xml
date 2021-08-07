@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TAGS on Jason&#39;s Blog</title>
+    <link>https://forjason.github.io/tags/</link>
+    <description>Recent content in TAGS on Jason&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Aug 2018 18:19:43 +0800</lastBuildDate><atom:link href="https://forjason.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C语言</title>
+      <link>https://forjason.github.io/tags/c%E8%AF%AD%E8%A8%80/</link>
+      <pubDate>Mon, 13 Aug 2018 18:19:43 +0800</pubDate>
+      
+      <guid>https://forjason.github.io/tags/c%E8%AF%AD%E8%A8%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual studio</title>
+      <link>https://forjason.github.io/tags/visual-studio/</link>
+      <pubDate>Mon, 13 Aug 2018 18:19:43 +0800</pubDate>
+      
+      <guid>https://forjason.github.io/tags/visual-studio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
